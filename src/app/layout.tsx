@@ -9,7 +9,8 @@ import { TRPCReactProvider } from "@/trpc/react";
 
 export const metadata = {
   title: "yorpex.",
-  description: "",
+  description:
+    "Yorpex is a cutting-edge development agency specializing in various technology sectors, driving innovation and delivering exceptional results.",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
